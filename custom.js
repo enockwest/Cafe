@@ -11,7 +11,7 @@
     $(function() {
       $('.hero-slides').vegas({
           slides: [
-              { src: 'slides/sincere-laugh-showing-picture-smartphone-casual-meeting-with-best-friends-restaurant-terrace.jpg' },
+              { src: 'sincere-laugh-showing-picture-smartphone-casual-meeting-with-best-friends-restaurant-terrace.jpg' },
               { src: 'happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg' },
               { src: 'young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg' }
           ],
